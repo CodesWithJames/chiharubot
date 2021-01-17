@@ -1,2 +1,2 @@
-# chiharubot
-The website for chiharu
+# Chiharu Bot
+The website for chiharu the discord bot!
